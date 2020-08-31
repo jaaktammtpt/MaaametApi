@@ -11,6 +11,7 @@ namespace MaaametApi
     {
 
         //https://www.surinderbhomra.com/Blog/2016/05/18/Useful-Method-To-Deserialize-XML-or-JSON-To-A-Class-Object
+        //https://xmltocsharp.azurewebsites.net/
         static void Main(string[] args)
         {
 
